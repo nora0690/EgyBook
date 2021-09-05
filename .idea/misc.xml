@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/226-master/app/src/main/res/drawable/shape_toolbar01.xml" value="0.1814814814814815" />
+        <entry key="..\:/226-master/app/src/main/res/layout-land/activity_main.xml" value="0.2796875" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_category_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_dashboard_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_forgot_password2.xml" value="0.264" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_pdf_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_pdf_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_pdf_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_pdf_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_profile_eactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/dialog_comment_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/fragment_book_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/row_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/row_comment.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/row_pdf_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/row_pdf_favorite.xml" value="0.25416666666666665" />
+        <entry key="..\:/226-master/app/src/main/res/layout/row_pdf_user.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
